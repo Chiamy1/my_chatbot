@@ -1,0 +1,1 @@
+https://github.com/ahmadfaizalbh/Chatbot/raw/master/chatbot/local/en/words.txt
